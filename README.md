@@ -25,7 +25,7 @@ Then get it started with
 $ http-server -p <port-number>
 ```
 
-In broswer, navigate to localhost:port-number you will see the result of test
+In broswer, navigate to localhost:port-number you will see the results of test
 
 
 
