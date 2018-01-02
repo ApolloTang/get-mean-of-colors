@@ -63,6 +63,7 @@
 
   // Helpers (END) //////////////////////////////////////////
 
+
 export default function getMeanOfColors (...hexColors) {
 
   // Validate to make sure hex colors received are strings like: hexColors = [ 'String', 'String', 'String', ... ]
@@ -97,5 +98,6 @@ export default function getMeanOfColors (...hexColors) {
     calculateMeanOfVectorsPart,
     convertParts_decToHex,
     vectorHexColorToHexColor
-  )(vectors_partsInDec)
+  )(vectors_partsInDec);
+
 };
