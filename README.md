@@ -11,7 +11,7 @@ The function in question is called 'getMeanOfColors()', where it:
 
 getMeanOfColors() is exported as an ES6 default module from the file called 'get-mean-of-colors.js'. This file is imported in get-mean-of-colors.test.js where unit tests are writen to test against its functionalities as well as the details of helper functions used.
 
-The test framwork used in testing getMeanOfColors() is mocha.js and chai.js, where there are set up in the index.html file and run in the browser where test results are shown. You will need an http server to get it load it into the browser.
+The test framwork used in testing getMeanOfColors() is mocha.js and chai.js, where they are set up in the index.html file and run in the browser where test results are shown. You will need an http server to get it load it into the browser.
 
 You can install a simple http server with npm as follow:
 
